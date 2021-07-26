@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Comp313A1.2
-ADAM
-=======
-# A1Comp313
->>>>>>> 51ae122a28e0d730dd404b038dd572d452c1ef01
-=======
-# A1Comp313
->>>>>>> 51ae122a28e0d730dd404b038dd572d452c1ef01
+### COMP313
+### Adam Kwiecien
+### Assignment 1
+### Chedder Trouble
+https://drive.google.com/file/d/1GYIdSmLkChNPeyxq6gihri9iP4XlSvmy/view?usp=sharing 
