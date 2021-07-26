@@ -1,0 +1,28 @@
+Cheddar Trouble - kweiciadam - Comp313 - Game Description 
+
+What is the main action in the game: 
+
+The main action in the game is to move the mouse character around the map to collect the cheese,
+whilst avoiding the AI cats and the traps which are scattered throughout the map. This is an adaptation of the 3d pacman idea.
+
+
+What was the hardest part of the game to get working in Unreal:
+
+The hardest part of the game to get working in unreal was the c++ code, 
+although this was fairly simple in the end result, it took a decent amount of time to learn and figure out how I would achieve the implementation 
+I of the banner/ingame title and its destruction when the player came close to it. With no previous experience with this sort of coding with c++ 
+in terms of unreal, I needed to follow some tutorials and google quite a bit to solve the errors I would get each time I thought I cracked it. After 
+following the unreal documentation I finally managed to implement the banner saying “collect all the cheese” that is in the player’s view as the game
+starts, this is then destroyed when the player gets close to it so that it doesn’t impair the player’s view and they can continue playing the game and 
+having fun. Next time I am implementing c++ code I would be alot more confident as I have a good base knowledge of the interactions between unreal, 
+blueprints and c++ code now. If I were to face another issue I would first check the unreal documentation as it is very well documented for the most part,
+then some forums of people asking similar questions.
+
+
+What is the most interesting part of the game: 
+
+The most interesting part of the game is the cat AI characters that roam the map, these are interesting 
+as they randomly select a location to move to within a radius around them, this adds an extra challenge to the player as they need to navigate the map 
+and avoid the cats. I found this aspect interesting as I got to learn  a great deal about AI within unreal and was very satisfied with the outcome. 
+In future I will be able to adapt this knowledge and expand on it to create even more advanced AI. The Cats are a fun addition to Cheddar Trouble and I
+was very interested in the process of creating them within my game.
